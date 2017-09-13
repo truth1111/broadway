@@ -6,7 +6,7 @@ head, body{font-family: Helvetica;}
  h3 {font-size: 23px; font-weight: bold;text-align: center;}
  p {font-size: 14px;text-align: center;}
 nav2 {color: white; font-size: 11px;}
-
+nav {color: white; font-weight:bold; font-size: 23px;}
 body {text-align:center;}
 h6 {font-size:18px; text-align: center;}
 footer {text-align: left !important; background-color: dimgray;}
